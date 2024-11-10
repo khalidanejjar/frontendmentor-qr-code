@@ -37,7 +37,7 @@
     font-size: 1rem;
     color: hsl(218, 44%, 22%);
     margin: 1rem 0 0.5rem;
-    background-color: white;
+
 }
 
 .card p{
@@ -45,7 +45,6 @@
     font-size: 0.875rem;
     color: hsl(220, 15%, 55%);
     line-height: 1.5;
-    background-color: white;
 
 }
 
